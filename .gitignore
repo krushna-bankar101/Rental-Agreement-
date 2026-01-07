@@ -1,0 +1,73 @@
+# Node
+node_modules/
+
+# Vite / build outputs
+dist/
+.build/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.pnp/
+.pnp.js
+
+# Coverage
+coverage/
+
+# MacOS
+.AppleDouble
+.LSOverride
+
+# JetBrains
+.idea
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Yarn v2+ / Berry
+.cache/
+
+# Ignore build artifacts
+dist/
+
+# Misc
+*.log
+npm-debug.log*
+
+# OneDrive
+~*\n
+
+# Lockfiles (optional to keep or ignore)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock
